@@ -1,0 +1,9 @@
+{
+  "name": "ec-cube/SamplePage",
+  "version": "1.0.0",
+  "description": "サンプルページプラグイン",
+  "type": "eccube-plugin",
+  "extra": {
+    "code": "SamplePage"
+  }
+}
